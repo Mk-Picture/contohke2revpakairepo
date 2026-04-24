@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://contohke2revpakairepo.pages.dev/sitemap.xml
