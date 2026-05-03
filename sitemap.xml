@@ -3,30 +3,37 @@
 
   <url>
     <loc>https://contohke2revpakairepo.pages.dev/</loc>
-    <lastmod>2026-05-02</lastmod>
+    <lastmod>2026-05-04</lastmod>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://contohke2revpakairepo.pages.dev/artikel-1/</loc>
-    <lastmod>2026-05-02</lastmod>
+    <lastmod>2026-05-04</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://contohke2revpakairepo.pages.dev/artikel-2/</loc>
-    <lastmod>2026-05-02</lastmod>
+    <lastmod>2026-05-04</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://contohke2revpakairepo.pages.dev/artikel-3/</loc>
-    <lastmod>2026-05-02</lastmod>
+    <lastmod>2026-05-04</lastmod>
     <priority>0.8</priority>
   </url>
+
   <url>
     <loc>https://contohke2revpakairepo.pages.dev/artikel-4/</loc>
-    <lastmod>2026-05-02</lastmod>
+    <lastmod>2026-05-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://contohke2revpakairepo.pages.dev/artikel-5/</loc>
+    <lastmod>2026-05-04</lastmod>
     <priority>0.8</priority>
   </url>
 
